@@ -1,0 +1,25 @@
+# Local credentials; keep the safe setup template public.
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.aws/
+
+# Personal notes and local artifacts.
+unauthorized-users.md
+outputs/
+work/
+.DS_Store
+.idea/
+.vscode/
+
+# Python environments, caches, and build artifacts.
+.pytest_cache/
+.ruff_cache/
+.venv/
+__pycache__/
+*.py[cod]
+build/
+dist/
+*.egg-info/
