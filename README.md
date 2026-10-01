@@ -1,6 +1,9 @@
 # Pangram Slack Checker
 
 got tired of reading blocks of ai slop on slack. time to shame.
+<img width="878" height="344" alt="CleanShot 2026-10-01 at 10 54 51@2x" src="https://github.com/user-attachments/assets/44335a7a-da2d-4882-b097-2f499841c437" />
+<img width="868" height="350" alt="CleanShot 2026-10-01 at 10 56 17@2x" src="https://github.com/user-attachments/assets/777d940b-ffcd-4d54-a85f-4fbd8c8f48ea" />
+<img width="862" height="352" alt="CleanShot 2026-10-01 at 10 56 58@2x" src="https://github.com/user-attachments/assets/05b9cf57-bc94-496b-a4ac-0244ed950ad6" />
 
 below written by codex
 
