@@ -2,6 +2,8 @@
 
 got tired of reading blocks of ai slop on slack. time to shame.
 
+below written by codex
+
 ## Requirements
 
 - Python 3.12 or newer and [uv](https://docs.astral.sh/uv/).
